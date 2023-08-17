@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EAakIxrAMydnI6xviSg0Ez7qm5U3JwfK7G53HL1kGJE5llIhks4yo3B7oJUZxl4TRwTlc0A8icmAa1LyA0FSA==",
+  "success": true,
+  "projectFilePath": "d:\\Netect\\Netect\\Netect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parso\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\parso\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\parso\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
